@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This React project was coded by Camila Dhaier and it is <a href='https://github.com/camilaDhaier/weather-react'>open-sourced</a>
+          This React project was coded by Camila Dhaier and it is <a href='https://github.com/camilaDhaier/weather-react' target='blank'>open-sourced</a>
         </a>
       </header>
     </div>

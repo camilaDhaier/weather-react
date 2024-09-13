@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+a{
+  text-align: center;
+  font-size: 30px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
